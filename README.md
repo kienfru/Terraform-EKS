@@ -149,10 +149,7 @@ terraform destroy
 ## Notes
 
 - Ensure you do not hard-code sensitive information such as access keys.
-- Follow best practices for IAM role and policy management to adhere to the principle of least privilege.
+- Follow best practices for IAM role and policy management to adhere to the principle of least privilage
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
